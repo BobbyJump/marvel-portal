@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/marvel-portal/static/css/main.e371b15d.chunk.css",
+    "main.js": "/marvel-portal/static/js/main.28498dfd.chunk.js",
+    "main.js.map": "/marvel-portal/static/js/main.28498dfd.chunk.js.map",
+    "runtime-main.js": "/marvel-portal/static/js/runtime-main.5001f117.js",
+    "runtime-main.js.map": "/marvel-portal/static/js/runtime-main.5001f117.js.map",
+    "static/js/2.61ae9430.chunk.js": "/marvel-portal/static/js/2.61ae9430.chunk.js",
+    "static/js/2.61ae9430.chunk.js.map": "/marvel-portal/static/js/2.61ae9430.chunk.js.map",
+    "index.html": "/marvel-portal/index.html",
+    "static/css/main.e371b15d.chunk.css.map": "/marvel-portal/static/css/main.e371b15d.chunk.css.map",
+    "static/js/2.61ae9430.chunk.js.LICENSE.txt": "/marvel-portal/static/js/2.61ae9430.chunk.js.LICENSE.txt",
+    "static/media/mjolnir.61f31e18.png": "/marvel-portal/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/marvel-portal/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5001f117.js",
+    "static/js/2.61ae9430.chunk.js",
+    "static/css/main.e371b15d.chunk.css",
+    "static/js/main.28498dfd.chunk.js"
+  ]
+}
